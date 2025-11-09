@@ -163,6 +163,7 @@ void Error_Handler(void)
 
 ## Output screen shots of proteus  :
 <img width="748" height="526" alt="image" src="https://github.com/user-attachments/assets/795d6fac-eb15-4fb6-bb7d-990888cde005" />
+
 <img width="751" height="526" alt="image" src="https://github.com/user-attachments/assets/83ef306f-9d9b-4881-a337-9399d7b2c1b0" />
 
 ## Result :
